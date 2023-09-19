@@ -1,0 +1,70 @@
+.pops
+{
+    text-decoration: none;
+    color:rgb(247, 191, 191);
+    display: flex;
+    justify-content: flex-end;
+    height: 30px;
+    position: relative;
+    width: 300px;
+    left:910px;
+    bottom: 240px;
+}
+.header_contact
+{
+    display: flex;
+    justify-content: column;
+    justify-content: flex-end;
+    height: 50px;
+    position: relative;
+    width: 300px;
+    left:910px;
+    color:rgb(247, 191, 191);
+    bottom: 250px;
+    
+}
+.family1
+{
+    display: flex;
+    justify-content: center;
+    margin-right: 600px;
+    flex-grow: 1;
+    width: 550px;
+    position: relative;
+    left:550px;
+    color:rgb(247, 191, 191);
+    bottom:120px;
+  
+
+}
+.family2
+{
+    margin-top: 100px;
+    flex-grow: 1;
+    color:rgb(247, 191, 191)
+}
+.main_text
+{
+    display: flex;
+    justify-content: center;
+    color:rgb(247, 191, 191);
+    width: 720px;
+    height: 100px;
+    position: relative;
+    left: 490px;
+    bottom:160px;
+
+    
+}
+.main_table
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 900px;
+    position: relative;
+    left: 400px;
+    height: 200px;
+    bottom:160px
+}
